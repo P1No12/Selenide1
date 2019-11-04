@@ -14,9 +14,7 @@ public class SomeTest {
         element(byName("q")).setValue("selenide").pressEnter();
         elements("#search .g").shouldHave(sizeGreaterThanOrEqual(6)).first().shouldHave(text("Selenide: concise UI tests in Java"))
                 .find(".r>a").click();
-        open("http://google.com/ncr");
-        open("http://google.com/ncr");
-        open("http://google.com/ncr");
+
         open("http://google.com/ncr");
         open("http://google.com/ncr");
         open("http://google.com/ncr");

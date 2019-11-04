@@ -15,6 +15,7 @@ public class SomeTest {
         elements("#search .g").shouldHave(sizeGreaterThanOrEqual(6)).first().shouldHave(text("Selenide: concise UI tests in Java"))
                 .find(".r>a").click();
 
+        open("http://google.com/ncr");
     }
 
 

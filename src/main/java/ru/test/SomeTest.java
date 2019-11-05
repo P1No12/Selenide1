@@ -18,6 +18,16 @@ public class SomeTest {
         open("http://google.com/ncr");
         open("http://google.com/ncr");
         open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
+
     }
 
 

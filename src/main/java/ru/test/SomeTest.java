@@ -16,6 +16,8 @@ public class SomeTest {
                 .find(".r>a").click();
 
         open("http://google.com/ncr");
+        open("http://google.com/ncr");
+        open("http://google.com/ncr");
     }
 
 
